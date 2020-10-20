@@ -15,6 +15,7 @@
 		E7795DB4253F9D7A009F81E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7795DB2253F9D7A009F81E0 /* LaunchScreen.storyboard */; };
 		E7795DBF253F9D7A009F81E0 /* scrollViewAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7795DBE253F9D7A009F81E0 /* scrollViewAnimationTests.swift */; };
 		E7795DCA253F9D7A009F81E0 /* scrollViewAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7795DC9253F9D7A009F81E0 /* scrollViewAnimationUITests.swift */; };
+		E7795DDB253FA125009F81E0 /* NumbersCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7795DDA253FA125009F81E0 /* NumbersCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E7795DC5253F9D7A009F81E0 /* scrollViewAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scrollViewAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7795DC9253F9D7A009F81E0 /* scrollViewAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrollViewAnimationUITests.swift; sourceTree = "<group>"; };
 		E7795DCB253F9D7A009F81E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7795DDA253FA125009F81E0 /* NumbersCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E7795DA7253F9D78009F81E0 /* AppDelegate.swift */,
 				E7795DA9253F9D78009F81E0 /* SceneDelegate.swift */,
 				E7795DAB253F9D78009F81E0 /* ViewController.swift */,
+				E7795DDA253FA125009F81E0 /* NumbersCollectionViewCell.swift */,
 				E7795DAD253F9D78009F81E0 /* Main.storyboard */,
 				E7795DB0253F9D7A009F81E0 /* Assets.xcassets */,
 				E7795DB2253F9D7A009F81E0 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7795DAC253F9D78009F81E0 /* ViewController.swift in Sources */,
+				E7795DDB253FA125009F81E0 /* NumbersCollectionViewCell.swift in Sources */,
 				E7795DA8253F9D78009F81E0 /* AppDelegate.swift in Sources */,
 				E7795DAA253F9D78009F81E0 /* SceneDelegate.swift in Sources */,
 			);
